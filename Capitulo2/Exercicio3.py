@@ -29,8 +29,6 @@ print("Soma do tempo de todos os trechos", totalSegundos,
 horaInicialSegundos = (6 * 60) * 60
 minutoInicialSegundos = 52 * 60
 horarioInicialSegundos = horaInicialSegundos + minutoInicialSegundos
-print(horarioInicialSegundos)
-print(minutoInicialSegundos)
 
 tempoTrechoMinutosSegundos = totalMinutos * 60
 
